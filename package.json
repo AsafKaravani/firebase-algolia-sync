@@ -1,6 +1,6 @@
 {
   "name": "firebase-algolia-sync",
-  "version": "1.0.4",
+  "version": "1.0.7",
   "description": "Creates a firebase cloud function which sync Firebase collection with Algolia index",
   "main": "index.js",
   "scripts": {
@@ -21,6 +21,13 @@
     "algoliasearch": "^4.8.3",
     "firebase-functions": "^3.13.0"
   },
-  "url" : "https://github.com/AsafKaravani/firebase-algolia-sync",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AsafKaravani/firebase-algolia-sync.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AsafKaravani/firebase-algolia-sync/issues"
+  },
+  "homepage": "https://github.com/AsafKaravani/firebase-algolia-sync",
   "email" : "asaf.karavani1@gmail.com"
 }
